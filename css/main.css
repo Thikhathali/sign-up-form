@@ -22,6 +22,9 @@
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
   background-color: #b17505;
   top: 355px;
   width: 30%;
@@ -29,6 +32,7 @@
   color: #fff;
   opacity: 0.6;
   font-size: 4rem;
+  font-family: cursive;
   text-align: center;
   padding-top: 20px;
 }
@@ -44,7 +48,7 @@
 
 .paragraph {
   background-color: #f7f2f2;
-  padding: 100px 0 0 55px;
+  padding: 160px 0 0 55px;
   height: 290px;
   text-align: start;
 }
